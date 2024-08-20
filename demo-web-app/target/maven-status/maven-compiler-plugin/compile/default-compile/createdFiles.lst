@@ -1,0 +1,4 @@
+com\erp\config\DataSourceConfig.class
+com\erp\srv\UsuarioService.class
+com\erp\srv\impl\UsuarioServiceImpl.class
+com\erp\ui\LoginBean.class
